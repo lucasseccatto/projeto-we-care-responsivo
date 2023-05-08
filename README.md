@@ -1,7 +1,16 @@
-<h1>We Care</h1>
-<h1>Esse foi um projeto que eu aprendi no <a href="https://rodolfomori.com.br/devclub">DevClub</a>
-<h2> Tecnologias utilizadas</h2>
-<p> - HTML </p>
-<p> - CSS </p>
+# Projeto We Care
+<p>Este projeto foi feito com o objetivo de desenvolver mais minhas habilidades no HTML & CSS.</p>
+
+## 📝 Apresentação:
+<p>Neste projeto desenvolvi uma página para colocar em prática as habilidades aprendidas na minha trajetória front-end com foco em responsividade e fixação dos conceitos de HTML & CSS.</p>
+
+## 🔨Feito com:
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+
+desktop:
 <img src="https://github.com/lucasseccatto/we-care/blob/master/assets/Desktop.png?raw=true" alt="desktop">
+
+mobile:<br>
 <img src="https://github.com/lucasseccatto/we-care/blob/master/assets/Mobile.png?raw=true" alt="mobile">
+
